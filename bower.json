@@ -1,0 +1,24 @@
+{
+  "name": "citest",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "liuqing <Liuqingdyx@126.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/liuqing2018/ContinuousIntegration",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "echarts": "^3.7.1"
+  },
+  "dependencies": {
+    "angular": "1.5.8"
+  }
+}
