@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/liuqing2018/ContinuousIntegration/issues"
   },
-  "homepage": "https://github.com/liuqing2018/ContinuousIntegration#readme"
+  "homepage": "https://github.com/liuqing2018/ContinuousIntegration#readme",
+  "devDependencies": {
+    "bower": "^1.8.2"
+  },
+  "dependencies": {
+    "jquery": "^1.7.2"
+  }
 }
